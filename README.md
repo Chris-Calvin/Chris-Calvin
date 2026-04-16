@@ -5,7 +5,7 @@ Building at the intersection of 6G air interface design, RF systems, and AI-nati
 
 📡 6G waveform design · Massive MIMO · mmWave/THz · Antenna systems · Embedded IoT
 
-📂 **[Publications](./Publications)** · **[Projects](./Projects)**
+[![Publications](https://img.shields.io/badge/📄%20PUBLICATIONS-View%20My%20Research-e94560?style=for-the-badge&labelColor=0f3460)](./Publications)  [![Projects](https://img.shields.io/badge/🛠️%20PROJECTS-View%20My%20Builds-00b4d8?style=for-the-badge&labelColor=03045e)](./Projects)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chris-calvin-p)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:calvinchris46@gmail.com)
