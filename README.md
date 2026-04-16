@@ -1,10 +1,11 @@
 # Chris Calvin P
 
-**ECE undergrad @ Amrita Vishwa Vidyapeetham · 3× IEEE author · National hackathon winner**  
+**ECE undergrad @ Amrita Vishwa Vidyapeetham · 3× IEEE author · 3+ national hackathon wins**  
 Building at the intersection of 6G air interface design, RF systems, and AI-native PHY layers.
 
-📡 6G waveform design · Massive MIMO · mmWave/THz · Antenna systems · Embedded IoT  
-🏆 ₹1L+ in national hackathons · IEEE/Scopus publications before graduation
+📡 6G waveform design · Massive MIMO · mmWave/THz · Antenna systems · Embedded IoT
+
+📂 **[Publications](./Publications)** · **[Projects](./Projects)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chris-calvin-p)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:calvinchris46@gmail.com)
@@ -20,6 +21,7 @@ Building at the intersection of 6G air interface design, RF systems, and AI-nati
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-Polar_Encoder-7B2FBE?style=for-the-badge&logoColor=white)
+![CST](https://img.shields.io/badge/CST-EM_Simulation-FF6600?style=for-the-badge&logoColor=white)
 
 ## 📻 Wireless & SDR
 
@@ -56,14 +58,6 @@ Building at the intersection of 6G air interface design, RF systems, and AI-nati
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Chris-Calvin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Chris-Calvin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-Calvin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
