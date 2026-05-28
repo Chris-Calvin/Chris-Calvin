@@ -7,6 +7,7 @@ Building at the intersection of 6G air interface design, RF systems, and AI-nati
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chris-calvin-p)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:calvinchris46@gmail.com)
+[![📄 VIEW MY PUBLICATIONS](https://img.shields.io/badge/📄%20VIEW%20MY%20PUBLICATIONS-IEEE%20Research%20%7C%203%20Papers-e94560?style=for-the-badge&labelColor=0f3460&logoColor=white)](https://github.com/Chris-Calvin/Chris-Calvin/tree/main/Publications)
 
 ---
 
