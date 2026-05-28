@@ -5,11 +5,8 @@ Building at the intersection of 6G air interface design, RF systems, and AI-nati
 
 📡 6G waveform design · Massive MIMO · mmWave/THz · Antenna systems · Embedded IoT
 
-[![Publications](https://img.shields.io/badge/📄%20PUBLICATIONS-View%20My%20Research-e94560?style=for-the-badge&labelColor=0f3460)](./Publications)  [![Projects](https://img.shields.io/badge/🛠️%20PROJECTS-View%20My%20Builds-00b4d8?style=for-the-badge&labelColor=03045e)](./Projects)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chris-calvin-p)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:calvinchris46@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cc_1472_)
 
 ---
 
@@ -54,10 +51,7 @@ Building at the intersection of 6G air interface design, RF systems, and AI-nati
 ## 🛠️ Dev & Infra
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 ---
 
